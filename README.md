@@ -15,31 +15,6 @@
 - 🎯 **详情Overlay** — 学科/作品详情弹层，顶部进度线动画 + 交错内容浮现
 - 📱 **响应式适配** — 桌面/平板/移动端自适应
 
-## 🚀 部署
-
-### GitHub Pages (推荐)
-
-1. Fork 或 Push 本仓库到 GitHub
-2. 进入仓库 **Settings → Pages**
-3. Source 选择 `main` 分支，根目录 `/ (root)`
-4. 保存，等待部署完成
-5. 访问 `https://<你的用户名>.github.io/<仓库名>/`
-
-### 自定义域名
-
-1. 在项目根目录添加 `CNAME` 文件（内容为你的域名）
-2. DNS 添加 CNAME 记录指向 `<用户名>.github.io`
-3. Settings → Pages → Custom domain 填入域名
-
-### 本地预览
-
-```bash
-# 任意静态服务器均可
-npx serve .
-# 或
-python -m http.server 8080
-```
-
 ## 📁 项目结构
 
 ```
