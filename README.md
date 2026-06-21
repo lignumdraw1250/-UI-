@@ -41,4 +41,4 @@
 
 ## 📝 License
 
-MIT © 2025 Solaceon
+MIT © 2026 Solaceon
