@@ -39,10 +39,6 @@
 - Backdrop Filter (液态玻璃效果)
 - CSS 3D Transform (视差倾斜)
 
-## 📷 个性化
-
-将 `index.html` 中以 `https://images.unsplash.com/` 开头的图片链接替换为你自己的图片。搜索注释 `📷` 可快速定位所有图片位置。
-
 ## 📝 License
 
 MIT © 2025 Solaceon
